@@ -1,2 +1,1 @@
-# temp-coursera-git
-This is temporarily repository for a test at coursera
+I am editing the README file. Adding some more details about the project description.
